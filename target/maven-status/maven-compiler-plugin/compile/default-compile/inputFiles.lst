@@ -1,8 +1,8 @@
-/Users/varnit/MineSweeper/src/main/java/com/example/App.java
-/Users/varnit/MineSweeper/src/main/java/com/example/model/MineField.java
-/Users/varnit/MineSweeper/src/main/java/com/example/service/GameService.java
-/Users/varnit/MineSweeper/src/main/java/com/example/service/IGameService.java
-/Users/varnit/MineSweeper/src/main/java/com/example/service/IMineFieldService.java
-/Users/varnit/MineSweeper/src/main/java/com/example/service/MineFieldService.java
-/Users/varnit/MineSweeper/src/main/java/com/example/util/IInputValidator.java
-/Users/varnit/MineSweeper/src/main/java/com/example/util/InputValidator.java
+/Users/varnit/MineSweeper/src/main/java/com/App.java
+/Users/varnit/MineSweeper/src/main/java/com/model/MineField.java
+/Users/varnit/MineSweeper/src/main/java/com/service/GameService.java
+/Users/varnit/MineSweeper/src/main/java/com/service/IGameService.java
+/Users/varnit/MineSweeper/src/main/java/com/service/IMineFieldService.java
+/Users/varnit/MineSweeper/src/main/java/com/service/MineFieldService.java
+/Users/varnit/MineSweeper/src/main/java/com/util/IInputValidator.java
+/Users/varnit/MineSweeper/src/main/java/com/util/InputValidator.java
