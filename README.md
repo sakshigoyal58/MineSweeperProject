@@ -27,3 +27,20 @@
    ```bash
    java -version
    mvn -version
+
+
+## Running the Project
+**Running on Windows**
+- Navigate to Your Project Directory:cd path\to\your\project
+- Build the Project: mvn clean install
+- Run the Project: mvn exec:java -Dexec.mainClass="com.example.Main"
+- 
+**Running on macOS**
+- Navigate to Your Project Directory:cd /path/to/your/project
+- Build the Project: mvn clean install
+- Run the Project: mvn exec:java -Dexec.mainClass="com.example.Main"
+  
+## Running Tests
+
+- Navigate to Your Project Directory:
+- mvn test
